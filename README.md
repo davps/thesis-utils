@@ -9,4 +9,6 @@ I manipulate my informations using python to generate automatically latex script
 
 This is the workflow:
 
-My information modelels -> Python scripts -> latex scripts -> Pretty readable pdf document
+My system information model -> My Python scripts -> automatic generated latex scripts -> automatic generated and pretty readable pdf document
+
+
