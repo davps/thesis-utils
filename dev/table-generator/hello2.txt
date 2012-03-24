@@ -1,0 +1,19 @@
+%% text %s = %s
+
+\begin{tabular}{|l|l|p{5cm}|}
+	\hline
+	\multicolumn{3}{|c|}{\cellcolor[gray]{0.8} \textbf{XCBR} type template} \\
+	\hline
+	Attribute Name & Attr. Type & Explanation \\ \hline
+	\multirow{4}{*}{Defenders} & Pos & INC \\
+	 & DC & Michael Duberry \\
+	 & DC & Dominic Matteo \\
+	 & RB & Didier Domi \\ \hline
+	\multirow{3}{*}{Midfielders} & MC & David Batty \\
+	 & MC & Eirik Bakke \\
+	 & MC & Jody Morris \\ \hline
+	Forward & FW & Jamie McMaster \\ \hline
+	\multirow{2}{*}{Strikers} & ST & Alan Smith \\
+	 & ST & Mark Viduka \\
+	\hline
+\end{tabular}
