@@ -1,4 +1,4 @@
-Utilities for automatic documentation of my thesys acording to IEC 61802
+Utilities for automatic documentation of my thesys acording to IEC 61082
 ===============================================================================
 
 I stored the structured information of my thesis models in a XML standarized way. When the information 
